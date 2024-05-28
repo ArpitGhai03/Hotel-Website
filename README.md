@@ -6,8 +6,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Configuration](#configuration)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
   
 ## Overview
