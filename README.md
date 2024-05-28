@@ -9,7 +9,7 @@
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
-
+  
 ## Overview
 In the age of digital transformation and ever-evolving consumer preferences, the hospitality industry haswitnessed a significant shift towards online presence and customer engagement. To cater to this changing landscape, we embark on a major project dedicated to the development of a "Hotel Dynamic Website." This project aims to leverage cutting-edge web technologies to create an interactive and userfriendly online platform for hotels, resorts, and accommodation providers.
 In today's fast-paced world, travelers rely heavily on the internet to plan their trips and make
