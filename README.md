@@ -23,9 +23,18 @@ updates.
  
 
 ## Features
-- **Feature 1**: A short description of feature 1.
-- **Feature 2**: A short description of feature 2.
-- **Feature 3**: A short description of feature 3.
+1. User-Centric Design: Create a visually appealing and user-centric website design that focuses on 
+delivering an exceptional user experience.
+2. Information Dissemination: Provide detailed and up-to-date information about [Hotel Name], 
+including room descriptions, rates, amenities, dining options, and nearby attractions.
+3. Interactive Features: Implement interactive elements such as high-quality photo galleries, virtual 
+tours, and guest reviews to engage and inform potential guests.
+4. Mobile Responsiveness: Ensure the website is responsive and functional across various devices, 
+including smartphones, tablets, and desktops.
+5. Content Management: Establish a content management system (CMS) that allows hotel staff to easily 
+update information such as room availability, pricing, and promotions.
+6. Feedback Mechanism: Incorporate a feedback mechanism to gather input from guests, enabling 
+continuous improvement of services and website features.
 
 ## Installation
 ### Prerequisites
@@ -71,24 +80,10 @@ updates.
 ## Configuration
 Detail any configuration options available in your project. This could include modifying configuration files or setting environment variables.
 
-## Contributing
-If you want others to contribute to your project, provide guidelines:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes.
-4. Commit your changes (`git commit -m 'Add some feature'`).
-5. Push to the branch (`git push origin feature-branch`).
-6. Open a pull request.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 For any inquiries or support, please contact:
-- **Name**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
+- **Name**: Arpit Ghai
+- **Email**: arpitghai04@gmail.com
+- **GitHub**: [ArpitGhai03]([https://github.com/ArpitGhai03])
 
 ---
-
-Feel free to further customize this template with specific details about your project, such as adding more features, specific configuration options, or additional instructions.
