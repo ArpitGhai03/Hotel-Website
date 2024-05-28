@@ -1,8 +1,5 @@
 # Hotel_Website
 
-[![License](https://img.shields.io/github/license/ArpitGhai03/Hotel_Website)](LICENSE)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/ArpitGhai03/Hotel_Website/ci.yml)](https://github.com/your-username/project-name/actions)
-
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
